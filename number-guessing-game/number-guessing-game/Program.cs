@@ -12,6 +12,7 @@
 
             Console.Write("Guess a number from 1-100: ");
             int usr_guess = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine();
 
             if (usr_guess == rand_number)
             {

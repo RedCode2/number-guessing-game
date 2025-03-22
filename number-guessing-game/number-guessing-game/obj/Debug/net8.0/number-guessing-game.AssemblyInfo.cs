@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("number-guessing-game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f2111da323514e0b04fded6679e8eaa5d260bfd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12706d996bca9bd5af43846cf8837d9d5ae93ff6")]
 [assembly: System.Reflection.AssemblyProductAttribute("number-guessing-game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("number-guessing-game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
